@@ -4,7 +4,7 @@ pandas
 numpy
 scikit-learn
 mlxtend
-streamlit
+streamlit>=1.33.0
 openai
 python-multipart
 pydantic
