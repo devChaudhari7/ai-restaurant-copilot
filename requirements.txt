@@ -11,3 +11,4 @@ pydantic
 python-dotenv
 rapidfuzz
 requests
+altair==4.2.2
