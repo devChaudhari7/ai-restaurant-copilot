@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+mlxtend
+streamlit
+openai
+python-multipart
+pydantic
+python-dotenv
+rapidfuzz
+requests

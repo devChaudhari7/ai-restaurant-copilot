@@ -1,0 +1,801 @@
+order_id,item_name,quantity,unit_price,food_cost_per_unit,category,subcategory,transaction_date,day_of_week
+1001,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-26T21:17:00,Thursday
+1002,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-26T19:06:00,Thursday
+1002,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-05T13:37:00,Thursday
+1002,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T20:13:00,Thursday
+1003,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-03T20:35:00,Tuesday
+1004,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-16T21:14:00,Monday
+1004,French Fries,1,3.99,1.0,Sides,Fried,2026-02-28T18:55:00,Saturday
+1005,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-25T13:27:00,Wednesday
+1006,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-09T19:48:00,Monday
+1007,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-15T18:06:00,Sunday
+1008,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T12:16:00,Sunday
+1008,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-20T18:07:00,Friday
+1008,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-05T20:35:00,Thursday
+1009,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-03T19:55:00,Tuesday
+1010,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-25T11:04:00,Wednesday
+1011,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-27T13:18:00,Friday
+1011,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-02T21:06:00,Monday
+1012,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-23T20:53:00,Monday
+1013,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-14T12:13:00,Saturday
+1013,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-22T18:40:00,Sunday
+1014,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-08T19:29:00,Sunday
+1015,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-10T21:43:00,Tuesday
+1016,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-10T19:52:00,Tuesday
+1017,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T19:17:00,Sunday
+1018,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-03T13:45:00,Tuesday
+1019,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-15T20:56:00,Sunday
+1019,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-07T20:16:00,Saturday
+1020,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T21:16:00,Friday
+1020,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-03T13:37:00,Tuesday
+1021,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-07T18:32:00,Saturday
+1021,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-02T18:07:00,Monday
+1022,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-28T18:43:00,Saturday
+1022,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-15T19:24:00,Sunday
+1022,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-19T20:16:00,Thursday
+1022,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-24T21:46:00,Tuesday
+1023,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-27T13:17:00,Friday
+1023,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-06T20:18:00,Friday
+1023,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-03T20:46:00,Tuesday
+1023,French Fries,1,3.99,1.0,Sides,Fried,2026-02-19T12:48:00,Thursday
+1024,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-02T12:40:00,Monday
+1025,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-22T19:12:00,Sunday
+1026,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-20T12:49:00,Friday
+1026,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-22T18:20:00,Sunday
+1026,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-04T19:23:00,Wednesday
+1026,French Fries,2,3.99,1.0,Sides,Fried,2026-02-10T19:03:00,Tuesday
+1027,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-05T20:05:00,Thursday
+1027,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-27T19:34:00,Friday
+1027,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-24T19:30:00,Tuesday
+1027,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-11T18:33:00,Wednesday
+1027,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-09T12:59:00,Monday
+1027,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-25T19:19:00,Wednesday
+1028,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-17T19:57:00,Tuesday
+1028,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-10T18:14:00,Tuesday
+1029,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-21T20:35:00,Saturday
+1030,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-03T12:04:00,Tuesday
+1030,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-10T13:04:00,Tuesday
+1030,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-05T20:32:00,Thursday
+1031,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-09T20:34:00,Monday
+1032,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-21T13:30:00,Saturday
+1033,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-28T19:26:00,Saturday
+1034,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-24T20:27:00,Tuesday
+1035,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-17T12:55:00,Tuesday
+1035,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-04T18:25:00,Wednesday
+1035,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-10T20:12:00,Tuesday
+1036,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-07T19:27:00,Saturday
+1037,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-10T18:55:00,Tuesday
+1037,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-28T18:55:00,Saturday
+1037,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-04T18:41:00,Wednesday
+1037,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T20:59:00,Thursday
+1037,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-08T21:26:00,Sunday
+1037,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-03-02T18:25:00,Monday
+1037,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-15T18:00:00,Sunday
+1037,French Fries,1,3.99,1.0,Sides,Fried,2026-03-04T11:50:00,Wednesday
+1037,French Fries,1,3.99,1.0,Sides,Fried,2026-02-16T19:44:00,Monday
+1037,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-24T18:45:00,Tuesday
+1037,Garlic Bread,2,4.49,1.2,Sides,Bread,2026-02-12T18:13:00,Thursday
+1037,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T19:34:00,Thursday
+1038,Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-04T18:03:00,Wednesday
+1038,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-03-04T20:54:00,Wednesday
+1038,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-19T20:05:00,Thursday
+1038,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-22T19:04:00,Sunday
+1038,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-15T19:07:00,Sunday
+1038,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-10T20:37:00,Tuesday
+1038,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-05T13:26:00,Thursday
+1038,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-19T19:20:00,Thursday
+1038,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-24T11:45:00,Tuesday
+1039,French Fries,1,3.99,1.0,Sides,Fried,2026-02-15T18:08:00,Sunday
+1039,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T13:20:00,Tuesday
+1039,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-03T18:29:00,Tuesday
+1039,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-06T12:04:00,Friday
+1039,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-11T12:08:00,Wednesday
+1039,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-03-03T20:15:00,Tuesday
+1040,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-17T19:53:00,Tuesday
+1040,French Fries,1,3.99,1.0,Sides,Fried,2026-02-22T19:51:00,Sunday
+1040,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-24T18:52:00,Tuesday
+1040,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-03T20:08:00,Tuesday
+1041,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-26T19:35:00,Thursday
+1042,French Fries,1,3.99,1.0,Sides,Fried,2026-02-22T18:13:00,Sunday
+1042,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-24T20:40:00,Tuesday
+1042,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-18T20:16:00,Wednesday
+1042,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T12:40:00,Thursday
+1042,French Fries,1,3.99,1.0,Sides,Fried,2026-02-04T20:00:00,Wednesday
+1043,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-23T11:16:00,Monday
+1044,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-20T19:45:00,Friday
+1044,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-06T13:04:00,Friday
+1044,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-20T19:02:00,Friday
+1044,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-20T18:09:00,Friday
+1044,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-12T18:23:00,Thursday
+1044,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-03T20:22:00,Tuesday
+1045,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-24T20:06:00,Tuesday
+1046,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-03-03T19:55:00,Tuesday
+1046,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T18:09:00,Thursday
+1046,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-02T18:10:00,Monday
+1046,Veggie Supreme Pizza,3,11.49,4.2,Pizza,Veg,2026-03-03T18:26:00,Tuesday
+1047,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-28T19:59:00,Saturday
+1047,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-11T19:10:00,Wednesday
+1047,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-15T19:55:00,Sunday
+1048,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-10T20:12:00,Tuesday
+1048,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-14T11:19:00,Saturday
+1048,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-10T13:01:00,Tuesday
+1048,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-13T21:17:00,Friday
+1048,French Fries,2,3.99,1.0,Sides,Fried,2026-02-14T18:41:00,Saturday
+1048,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-13T21:01:00,Friday
+1049,French Fries,1,3.99,1.0,Sides,Fried,2026-02-08T21:37:00,Sunday
+1049,French Fries,3,3.99,1.0,Sides,Fried,2026-02-04T20:06:00,Wednesday
+1049,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-26T18:50:00,Thursday
+1050,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-19T18:07:00,Thursday
+1051,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-09T19:16:00,Monday
+1052,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-03T19:33:00,Tuesday
+1052,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-24T12:46:00,Tuesday
+1052,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-14T21:27:00,Saturday
+1053,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T19:20:00,Sunday
+1053,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-26T20:57:00,Thursday
+1054,French Fries,1,3.99,1.0,Sides,Fried,2026-02-24T20:26:00,Tuesday
+1055,French Fries,1,3.99,1.0,Sides,Fried,2026-02-20T18:08:00,Friday
+1056,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T20:47:00,Tuesday
+1056,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-21T21:19:00,Saturday
+1056,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-12T19:18:00,Thursday
+1057,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-22T19:41:00,Sunday
+1058,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-17T20:43:00,Tuesday
+1059,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-28T18:57:00,Saturday
+1059,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-24T12:05:00,Tuesday
+1060,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-13T11:05:00,Friday
+1060,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-24T19:19:00,Tuesday
+1061,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-07T19:01:00,Saturday
+1062,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T11:54:00,Sunday
+1062,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-16T18:56:00,Monday
+1062,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-25T19:44:00,Wednesday
+1063,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-10T18:09:00,Tuesday
+1063,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-03T12:48:00,Tuesday
+1063,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-27T19:27:00,Friday
+1064,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-17T19:03:00,Tuesday
+1064,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-17T21:08:00,Tuesday
+1064,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T18:38:00,Friday
+1065,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T18:52:00,Sunday
+1065,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-16T12:53:00,Monday
+1065,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-03T21:10:00,Tuesday
+1065,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-17T19:16:00,Tuesday
+1065,French Fries,1,3.99,1.0,Sides,Fried,2026-02-27T13:49:00,Friday
+1065,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-11T18:28:00,Wednesday
+1066,French Fries,1,3.99,1.0,Sides,Fried,2026-02-10T20:17:00,Tuesday
+1067,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-05T18:08:00,Thursday
+1068,Diet Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-25T20:09:00,Wednesday
+1068,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-16T19:26:00,Monday
+1069,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-16T18:03:00,Monday
+1070,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T20:57:00,Sunday
+1070,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-02T12:56:00,Monday
+1070,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-18T11:00:00,Wednesday
+1070,French Fries,2,3.99,1.0,Sides,Fried,2026-02-27T20:24:00,Friday
+1070,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-20T12:47:00,Friday
+1070,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-03T19:14:00,Tuesday
+1070,French Fries,1,3.99,1.0,Sides,Fried,2026-02-16T18:31:00,Monday
+1071,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T19:43:00,Tuesday
+1071,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-01T11:29:00,Sunday
+1071,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-20T19:01:00,Friday
+1071,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-21T20:42:00,Saturday
+1072,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-07T13:55:00,Saturday
+1072,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-11T19:24:00,Wednesday
+1073,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-13T19:21:00,Friday
+1073,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-11T19:48:00,Wednesday
+1073,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-11T19:53:00,Wednesday
+1074,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-26T19:34:00,Thursday
+1075,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-10T18:41:00,Tuesday
+1076,Margherita Pizza,3,8.99,3.0,Pizza,Veg,2026-02-27T21:01:00,Friday
+1076,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-01T12:01:00,Sunday
+1076,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-07T11:30:00,Saturday
+1076,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-09T19:29:00,Monday
+1076,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-08T18:38:00,Sunday
+1076,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-27T11:52:00,Friday
+1077,French Fries,1,3.99,1.0,Sides,Fried,2026-02-06T18:37:00,Friday
+1078,French Fries,1,3.99,1.0,Sides,Fried,2026-02-21T19:43:00,Saturday
+1078,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T20:45:00,Sunday
+1079,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-25T20:53:00,Wednesday
+1079,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-25T13:49:00,Wednesday
+1080,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-28T20:07:00,Saturday
+1080,Chocolate Brownie,3,5.49,1.5,Dessert,Cake,2026-02-28T18:02:00,Saturday
+1081,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T20:23:00,Tuesday
+1082,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-03T21:54:00,Tuesday
+1082,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-06T18:27:00,Friday
+1082,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-25T20:09:00,Wednesday
+1082,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-23T21:17:00,Monday
+1082,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-27T20:30:00,Friday
+1082,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-11T20:20:00,Wednesday
+1082,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-11T11:56:00,Wednesday
+1082,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-21T12:39:00,Saturday
+1082,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-03T21:31:00,Tuesday
+1082,Veggie Supreme Pizza,3,11.49,4.2,Pizza,Veg,2026-02-18T19:13:00,Wednesday
+1083,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T18:17:00,Friday
+1083,French Fries,1,3.99,1.0,Sides,Fried,2026-02-20T18:00:00,Friday
+1083,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-05T20:15:00,Thursday
+1083,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-20T20:48:00,Friday
+1084,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-23T19:45:00,Monday
+1084,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T19:18:00,Thursday
+1085,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-12T20:42:00,Thursday
+1085,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-20T12:33:00,Friday
+1086,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-13T20:22:00,Friday
+1086,French Fries,1,3.99,1.0,Sides,Fried,2026-02-12T12:16:00,Thursday
+1087,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-13T20:07:00,Friday
+1087,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-09T20:13:00,Monday
+1087,French Fries,1,3.99,1.0,Sides,Fried,2026-02-26T12:37:00,Thursday
+1087,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-22T21:18:00,Sunday
+1087,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-12T18:14:00,Thursday
+1088,French Fries,1,3.99,1.0,Sides,Fried,2026-02-03T21:45:00,Tuesday
+1088,French Fries,3,3.99,1.0,Sides,Fried,2026-02-04T20:03:00,Wednesday
+1088,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-23T12:55:00,Monday
+1088,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-02T19:00:00,Monday
+1088,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-18T21:28:00,Wednesday
+1089,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-11T19:55:00,Wednesday
+1089,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-15T19:31:00,Sunday
+1090,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-07T12:09:00,Saturday
+1090,French Fries,1,3.99,1.0,Sides,Fried,2026-02-05T19:15:00,Thursday
+1091,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T19:38:00,Sunday
+1091,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-02-27T18:33:00,Friday
+1092,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-12T20:55:00,Thursday
+1092,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-12T21:36:00,Thursday
+1092,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T21:06:00,Thursday
+1092,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-23T20:13:00,Monday
+1093,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-08T21:15:00,Sunday
+1094,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-08T19:00:00,Sunday
+1094,Chocolate Brownie,3,5.49,1.5,Dessert,Cake,2026-02-18T19:18:00,Wednesday
+1095,French Fries,1,3.99,1.0,Sides,Fried,2026-02-25T19:18:00,Wednesday
+1095,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T19:43:00,Thursday
+1096,French Fries,1,3.99,1.0,Sides,Fried,2026-02-28T21:50:00,Saturday
+1096,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-16T18:07:00,Monday
+1096,Veggie Supreme Pizza,3,11.49,4.2,Pizza,Veg,2026-03-04T20:17:00,Wednesday
+1096,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-04T19:10:00,Wednesday
+1096,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T13:52:00,Thursday
+1096,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:07:00,Tuesday
+1096,French Fries,1,3.99,1.0,Sides,Fried,2026-02-25T12:25:00,Wednesday
+1096,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-20T21:31:00,Friday
+1096,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-04T19:56:00,Wednesday
+1096,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T20:16:00,Sunday
+1097,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-24T13:53:00,Tuesday
+1097,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-03T20:48:00,Tuesday
+1097,French Fries,2,3.99,1.0,Sides,Fried,2026-02-21T20:02:00,Saturday
+1097,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-18T18:33:00,Wednesday
+1097,French Fries,2,3.99,1.0,Sides,Fried,2026-02-08T20:37:00,Sunday
+1097,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T11:30:00,Thursday
+1098,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-13T20:42:00,Friday
+1099,Veggie Supreme Pizza,3,11.49,4.2,Pizza,Veg,2026-02-13T13:26:00,Friday
+1099,French Fries,1,3.99,1.0,Sides,Fried,2026-02-24T18:25:00,Tuesday
+1099,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-04T20:29:00,Wednesday
+1100,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T19:07:00,Friday
+1100,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T18:32:00,Monday
+1100,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-24T20:55:00,Tuesday
+1100,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T21:12:00,Wednesday
+1100,Chocolate Brownie,3,5.49,1.5,Dessert,Cake,2026-02-27T19:31:00,Friday
+1100,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-09T21:17:00,Monday
+1100,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:56:00,Tuesday
+1100,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-03T12:40:00,Tuesday
+1100,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-02-25T19:10:00,Wednesday
+1101,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-20T19:26:00,Friday
+1102,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-17T18:07:00,Tuesday
+1102,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-18T19:59:00,Wednesday
+1102,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-25T20:17:00,Wednesday
+1102,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-18T20:15:00,Wednesday
+1102,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-15T19:12:00,Sunday
+1102,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-26T18:56:00,Thursday
+1103,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-11T11:49:00,Wednesday
+1103,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-13T19:59:00,Friday
+1103,French Fries,1,3.99,1.0,Sides,Fried,2026-03-01T18:00:00,Sunday
+1104,French Fries,1,3.99,1.0,Sides,Fried,2026-03-01T11:37:00,Sunday
+1104,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-02T19:09:00,Monday
+1104,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-14T18:21:00,Saturday
+1104,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-15T18:29:00,Sunday
+1104,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-25T20:15:00,Wednesday
+1104,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-02T19:49:00,Monday
+1104,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-26T21:30:00,Thursday
+1104,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T21:42:00,Sunday
+1104,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-18T18:02:00,Wednesday
+1105,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-13T21:55:00,Friday
+1106,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-06T18:33:00,Friday
+1106,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-26T18:09:00,Thursday
+1106,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-05T12:30:00,Thursday
+1106,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T13:39:00,Friday
+1106,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-02T19:21:00,Monday
+1106,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-15T18:20:00,Sunday
+1106,Lemonade,2,3.49,0.7,Beverages,Juice,2026-03-02T19:34:00,Monday
+1107,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-10T13:40:00,Tuesday
+1107,French Fries,1,3.99,1.0,Sides,Fried,2026-02-10T11:47:00,Tuesday
+1108,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-27T18:40:00,Friday
+1108,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-17T12:10:00,Tuesday
+1108,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-04T19:20:00,Wednesday
+1108,French Fries,1,3.99,1.0,Sides,Fried,2026-02-14T18:23:00,Saturday
+1108,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-19T19:26:00,Thursday
+1108,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-08T20:11:00,Sunday
+1109,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T12:43:00,Sunday
+1110,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-07T21:14:00,Saturday
+1110,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:16:00,Tuesday
+1110,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-03T20:18:00,Tuesday
+1110,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-05T18:28:00,Thursday
+1110,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-12T19:40:00,Thursday
+1110,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:54:00,Tuesday
+1111,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T20:30:00,Monday
+1112,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-21T18:22:00,Saturday
+1112,French Fries,1,3.99,1.0,Sides,Fried,2026-02-03T20:53:00,Tuesday
+1112,French Fries,1,3.99,1.0,Sides,Fried,2026-02-03T19:36:00,Tuesday
+1112,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-04T18:38:00,Wednesday
+1112,French Fries,1,3.99,1.0,Sides,Fried,2026-02-27T18:51:00,Friday
+1113,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-10T18:40:00,Tuesday
+1114,French Fries,1,3.99,1.0,Sides,Fried,2026-02-24T18:48:00,Tuesday
+1114,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-23T18:06:00,Monday
+1114,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-12T20:50:00,Thursday
+1114,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-14T19:46:00,Saturday
+1115,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T19:47:00,Friday
+1115,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-07T19:50:00,Saturday
+1115,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-19T20:32:00,Thursday
+1115,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-11T12:58:00,Wednesday
+1115,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-28T18:18:00,Saturday
+1115,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T19:07:00,Saturday
+1115,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-07T21:48:00,Saturday
+1115,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T18:51:00,Monday
+1115,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-28T13:25:00,Saturday
+1116,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-06T13:29:00,Friday
+1117,French Fries,1,3.99,1.0,Sides,Fried,2026-02-21T18:24:00,Saturday
+1117,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-06T20:43:00,Friday
+1118,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-22T19:56:00,Sunday
+1118,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-04T21:39:00,Wednesday
+1119,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-23T18:52:00,Monday
+1119,French Fries,3,3.99,1.0,Sides,Fried,2026-02-23T20:26:00,Monday
+1120,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-04T18:19:00,Wednesday
+1120,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-06T19:15:00,Friday
+1120,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-15T19:29:00,Sunday
+1121,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-16T18:37:00,Monday
+1121,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-03T13:26:00,Tuesday
+1121,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T18:26:00,Sunday
+1121,French Fries,1,3.99,1.0,Sides,Fried,2026-02-04T18:44:00,Wednesday
+1122,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-17T19:15:00,Tuesday
+1122,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-24T19:23:00,Tuesday
+1122,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T19:25:00,Wednesday
+1123,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-02T12:52:00,Monday
+1123,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-23T12:40:00,Monday
+1123,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-04T21:50:00,Wednesday
+1124,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-28T20:36:00,Saturday
+1125,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-09T19:37:00,Monday
+1126,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-13T19:49:00,Friday
+1127,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-03T18:17:00,Tuesday
+1127,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-07T21:34:00,Saturday
+1128,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-06T21:42:00,Friday
+1128,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-03T20:22:00,Tuesday
+1128,Garlic Bread,2,4.49,1.2,Sides,Bread,2026-02-21T13:20:00,Saturday
+1129,French Fries,1,3.99,1.0,Sides,Fried,2026-02-04T20:08:00,Wednesday
+1129,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-06T20:47:00,Friday
+1130,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-27T20:23:00,Friday
+1130,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-17T13:32:00,Tuesday
+1131,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-04T20:46:00,Wednesday
+1131,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-12T19:29:00,Thursday
+1131,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-04T20:30:00,Wednesday
+1131,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T20:06:00,Tuesday
+1131,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T18:57:00,Thursday
+1132,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-07T18:04:00,Saturday
+1133,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-23T19:37:00,Monday
+1133,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T20:38:00,Sunday
+1133,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-19T19:38:00,Thursday
+1133,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-03-02T19:41:00,Monday
+1133,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-26T21:55:00,Thursday
+1134,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-03T18:14:00,Tuesday
+1134,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-15T20:26:00,Sunday
+1134,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-16T19:20:00,Monday
+1134,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-07T20:43:00,Saturday
+1134,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-05T18:53:00,Thursday
+1135,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-06T20:47:00,Friday
+1135,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-20T19:03:00,Friday
+1135,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T20:21:00,Friday
+1135,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-14T20:55:00,Saturday
+1135,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T20:58:00,Monday
+1135,French Fries,1,3.99,1.0,Sides,Fried,2026-02-22T18:19:00,Sunday
+1136,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-19T12:13:00,Thursday
+1137,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-10T20:54:00,Tuesday
+1138,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-14T19:07:00,Saturday
+1138,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-10T19:51:00,Tuesday
+1138,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-27T18:52:00,Friday
+1138,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-03T21:38:00,Tuesday
+1138,French Fries,1,3.99,1.0,Sides,Fried,2026-02-03T18:11:00,Tuesday
+1139,French Fries,1,3.99,1.0,Sides,Fried,2026-03-04T21:21:00,Wednesday
+1140,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-02T19:09:00,Monday
+1140,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-05T19:09:00,Thursday
+1140,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T20:47:00,Thursday
+1140,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-16T19:29:00,Monday
+1141,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-12T21:46:00,Thursday
+1142,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-22T13:05:00,Sunday
+1142,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-08T19:48:00,Sunday
+1142,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-11T20:28:00,Wednesday
+1142,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-22T21:28:00,Sunday
+1142,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-27T12:32:00,Friday
+1143,Diet Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-06T20:18:00,Friday
+1143,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-18T21:33:00,Wednesday
+1143,Margherita Pizza,2,8.99,3.0,Pizza,Veg,2026-02-10T19:25:00,Tuesday
+1143,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-03T18:13:00,Tuesday
+1144,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-27T18:08:00,Friday
+1144,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T11:07:00,Friday
+1145,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-08T18:08:00,Sunday
+1146,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-19T21:35:00,Thursday
+1146,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-05T18:25:00,Thursday
+1146,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-16T19:01:00,Monday
+1146,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-02T19:20:00,Monday
+1146,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-15T13:45:00,Sunday
+1146,French Fries,1,3.99,1.0,Sides,Fried,2026-02-06T18:25:00,Friday
+1147,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-08T18:51:00,Sunday
+1147,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-01T19:44:00,Sunday
+1147,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-16T19:54:00,Monday
+1148,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-21T21:25:00,Saturday
+1148,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T18:19:00,Monday
+1148,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-13T21:49:00,Friday
+1149,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-23T19:07:00,Monday
+1149,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-03T20:49:00,Tuesday
+1150,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-10T20:06:00,Tuesday
+1151,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-08T13:38:00,Sunday
+1152,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-08T19:49:00,Sunday
+1152,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-27T12:36:00,Friday
+1152,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-24T19:59:00,Tuesday
+1152,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-13T18:55:00,Friday
+1152,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-07T19:28:00,Saturday
+1153,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-23T13:19:00,Monday
+1153,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-04T21:22:00,Wednesday
+1153,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:28:00,Tuesday
+1154,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-01T18:18:00,Sunday
+1155,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-22T13:38:00,Sunday
+1155,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-21T19:35:00,Saturday
+1155,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-17T18:58:00,Tuesday
+1155,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-13T19:38:00,Friday
+1155,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-04T12:28:00,Wednesday
+1156,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-25T13:05:00,Wednesday
+1156,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-04T18:15:00,Wednesday
+1156,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-19T18:33:00,Thursday
+1156,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-14T20:58:00,Saturday
+1157,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-27T18:21:00,Friday
+1157,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-28T18:40:00,Saturday
+1157,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-13T20:06:00,Friday
+1157,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-12T12:16:00,Thursday
+1157,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-02T11:09:00,Monday
+1158,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-24T19:09:00,Tuesday
+1158,French Fries,1,3.99,1.0,Sides,Fried,2026-02-23T20:44:00,Monday
+1158,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-22T18:45:00,Sunday
+1158,French Fries,1,3.99,1.0,Sides,Fried,2026-02-20T18:24:00,Friday
+1158,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-01T18:08:00,Sunday
+1158,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-05T18:41:00,Thursday
+1158,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-14T18:01:00,Saturday
+1159,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-09T21:21:00,Monday
+1159,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-09T12:14:00,Monday
+1159,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-05T19:18:00,Thursday
+1159,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-19T20:49:00,Thursday
+1159,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-04T11:42:00,Wednesday
+1160,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-07T19:38:00,Saturday
+1161,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-08T18:53:00,Sunday
+1161,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-28T20:57:00,Saturday
+1162,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-04T19:26:00,Wednesday
+1163,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-17T18:39:00,Tuesday
+1164,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-10T21:34:00,Tuesday
+1165,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-03T19:53:00,Tuesday
+1166,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-17T19:29:00,Tuesday
+1166,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-19T20:33:00,Thursday
+1166,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-01T11:12:00,Sunday
+1166,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-02T21:16:00,Monday
+1167,Lemonade,2,3.49,0.7,Beverages,Juice,2026-03-02T19:23:00,Monday
+1167,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-25T19:54:00,Wednesday
+1167,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-12T21:05:00,Thursday
+1167,French Fries,1,3.99,1.0,Sides,Fried,2026-02-17T18:57:00,Tuesday
+1167,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-05T11:58:00,Thursday
+1168,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-03T20:22:00,Tuesday
+1168,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T19:25:00,Wednesday
+1168,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-15T18:05:00,Sunday
+1169,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-13T18:59:00,Friday
+1170,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T18:09:00,Saturday
+1171,French Fries,1,3.99,1.0,Sides,Fried,2026-03-04T19:53:00,Wednesday
+1171,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-27T21:45:00,Friday
+1171,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-03T18:57:00,Tuesday
+1172,French Fries,1,3.99,1.0,Sides,Fried,2026-02-09T18:53:00,Monday
+1173,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-19T12:27:00,Thursday
+1174,French Fries,1,3.99,1.0,Sides,Fried,2026-02-10T19:19:00,Tuesday
+1175,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-16T20:40:00,Monday
+1175,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T12:07:00,Thursday
+1175,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T19:34:00,Sunday
+1176,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-21T18:15:00,Saturday
+1176,French Fries,1,3.99,1.0,Sides,Fried,2026-02-16T20:00:00,Monday
+1176,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-21T19:26:00,Saturday
+1177,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-19T19:23:00,Thursday
+1178,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T12:32:00,Friday
+1178,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-20T12:01:00,Friday
+1179,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-04T18:40:00,Wednesday
+1180,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-11T19:47:00,Wednesday
+1181,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-14T20:15:00,Saturday
+1181,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-27T19:37:00,Friday
+1181,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-07T20:02:00,Saturday
+1182,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-01T19:41:00,Sunday
+1183,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-25T21:30:00,Wednesday
+1183,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-05T11:45:00,Thursday
+1183,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-04T21:18:00,Wednesday
+1184,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-03-03T19:02:00,Tuesday
+1185,French Fries,2,3.99,1.0,Sides,Fried,2026-02-19T11:25:00,Thursday
+1185,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-18T18:16:00,Wednesday
+1186,Garlic Bread,2,4.49,1.2,Sides,Bread,2026-02-12T21:22:00,Thursday
+1186,Margherita Pizza,2,8.99,3.0,Pizza,Veg,2026-03-02T19:41:00,Monday
+1187,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-28T20:23:00,Saturday
+1187,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-26T20:28:00,Thursday
+1187,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-13T19:11:00,Friday
+1187,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-14T12:59:00,Saturday
+1187,French Fries,1,3.99,1.0,Sides,Fried,2026-02-28T19:05:00,Saturday
+1187,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-16T20:38:00,Monday
+1187,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-20T18:18:00,Friday
+1188,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-13T20:42:00,Friday
+1189,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T19:45:00,Sunday
+1189,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-14T19:28:00,Saturday
+1190,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T11:27:00,Sunday
+1191,Margherita Pizza,2,8.99,3.0,Pizza,Veg,2026-02-05T11:42:00,Thursday
+1191,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-19T19:51:00,Thursday
+1191,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-03T20:09:00,Tuesday
+1191,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-04T18:08:00,Wednesday
+1192,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-14T18:24:00,Saturday
+1192,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-22T19:09:00,Sunday
+1192,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-14T21:28:00,Saturday
+1192,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-07T18:33:00,Saturday
+1193,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-23T20:17:00,Monday
+1194,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-03T12:47:00,Tuesday
+1195,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-15T18:58:00,Sunday
+1195,French Fries,1,3.99,1.0,Sides,Fried,2026-02-27T18:16:00,Friday
+1195,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-22T11:18:00,Sunday
+1195,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-09T18:07:00,Monday
+1196,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-17T19:11:00,Tuesday
+1196,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T21:51:00,Thursday
+1196,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T12:22:00,Tuesday
+1196,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T20:18:00,Friday
+1196,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-25T19:45:00,Wednesday
+1196,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-28T13:23:00,Saturday
+1196,Pepperoni Pizza,3,10.99,4.0,Pizza,Non-Veg,2026-02-09T18:50:00,Monday
+1197,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-03T19:23:00,Tuesday
+1197,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-17T19:51:00,Tuesday
+1197,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-22T13:56:00,Sunday
+1198,French Fries,1,3.99,1.0,Sides,Fried,2026-02-15T13:45:00,Sunday
+1198,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-16T18:49:00,Monday
+1198,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-05T21:08:00,Thursday
+1198,Pepperoni Pizza,2,10.99,4.0,Pizza,Non-Veg,2026-02-17T21:29:00,Tuesday
+1198,Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-07T13:56:00,Saturday
+1198,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-23T20:37:00,Monday
+1199,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-16T13:32:00,Monday
+1199,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-01T18:07:00,Sunday
+1199,French Fries,1,3.99,1.0,Sides,Fried,2026-02-08T19:10:00,Sunday
+1200,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-14T19:33:00,Saturday
+1200,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-11T20:12:00,Wednesday
+1200,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-11T12:08:00,Wednesday
+1200,Chocolate Brownie,2,5.49,1.5,Dessert,Cake,2026-02-20T21:05:00,Friday
+1200,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-21T20:37:00,Saturday
+1201,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T19:57:00,Thursday
+1201,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-04T18:52:00,Wednesday
+1201,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-04T18:41:00,Wednesday
+1201,French Fries,1,3.99,1.0,Sides,Fried,2026-02-23T19:13:00,Monday
+1201,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T18:40:00,Sunday
+1202,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-12T12:41:00,Thursday
+1202,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-10T19:51:00,Tuesday
+1202,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-12T19:29:00,Thursday
+1203,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-08T18:28:00,Sunday
+1203,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-09T19:21:00,Monday
+1203,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T20:45:00,Monday
+1204,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T19:08:00,Sunday
+1204,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-20T20:06:00,Friday
+1205,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-06T20:17:00,Friday
+1205,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-06T19:03:00,Friday
+1206,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-02T20:39:00,Monday
+1206,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-01T20:20:00,Sunday
+1206,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-09T11:48:00,Monday
+1207,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-17T12:31:00,Tuesday
+1207,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-03T20:05:00,Tuesday
+1207,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-17T20:15:00,Tuesday
+1208,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T19:03:00,Wednesday
+1209,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-03T18:53:00,Tuesday
+1209,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-12T21:34:00,Thursday
+1210,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-16T18:08:00,Monday
+1210,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-27T19:25:00,Friday
+1211,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T12:36:00,Wednesday
+1211,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-20T19:18:00,Friday
+1212,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-17T18:48:00,Tuesday
+1212,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-24T21:39:00,Tuesday
+1213,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-15T21:23:00,Sunday
+1213,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-20T12:23:00,Friday
+1213,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-22T20:32:00,Sunday
+1213,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-04T19:02:00,Wednesday
+1214,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T19:30:00,Saturday
+1214,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-22T20:57:00,Sunday
+1214,Coke,3,2.49,0.4,Beverages,Soft Drink,2026-03-04T21:39:00,Wednesday
+1215,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-22T12:47:00,Sunday
+1215,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-13T11:32:00,Friday
+1215,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-18T18:45:00,Wednesday
+1215,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-01T20:01:00,Sunday
+1216,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-16T18:37:00,Monday
+1217,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-22T21:30:00,Sunday
+1218,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-21T19:14:00,Saturday
+1218,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-18T20:10:00,Wednesday
+1218,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-27T18:53:00,Friday
+1219,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-04T19:36:00,Wednesday
+1219,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-09T18:01:00,Monday
+1219,Diet Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-07T13:26:00,Saturday
+1219,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-19T21:49:00,Thursday
+1219,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-02T19:54:00,Monday
+1219,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-25T18:08:00,Wednesday
+1219,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-13T18:42:00,Friday
+1219,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-13T18:11:00,Friday
+1219,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-13T11:34:00,Friday
+1220,French Fries,1,3.99,1.0,Sides,Fried,2026-02-22T18:30:00,Sunday
+1221,Garlic Bread,2,4.49,1.2,Sides,Bread,2026-02-11T19:35:00,Wednesday
+1222,French Fries,3,3.99,1.0,Sides,Fried,2026-02-27T13:18:00,Friday
+1222,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-13T20:30:00,Friday
+1223,French Fries,1,3.99,1.0,Sides,Fried,2026-02-12T20:07:00,Thursday
+1223,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-15T19:57:00,Sunday
+1223,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-27T11:51:00,Friday
+1224,Margherita Pizza,2,8.99,3.0,Pizza,Veg,2026-02-12T19:45:00,Thursday
+1225,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-23T19:16:00,Monday
+1225,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-09T12:52:00,Monday
+1225,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-25T18:17:00,Wednesday
+1226,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-26T19:37:00,Thursday
+1227,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-24T19:57:00,Tuesday
+1227,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-04T20:06:00,Wednesday
+1227,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-06T19:43:00,Friday
+1227,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-20T12:59:00,Friday
+1228,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-18T19:41:00,Wednesday
+1229,French Fries,1,3.99,1.0,Sides,Fried,2026-02-13T18:18:00,Friday
+1229,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-23T20:36:00,Monday
+1230,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-03-04T11:58:00,Wednesday
+1231,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-04T12:58:00,Wednesday
+1232,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T21:31:00,Saturday
+1233,French Fries,1,3.99,1.0,Sides,Fried,2026-03-03T19:02:00,Tuesday
+1234,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-22T20:06:00,Sunday
+1234,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-12T11:29:00,Thursday
+1234,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-19T19:31:00,Thursday
+1234,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-03-02T18:32:00,Monday
+1234,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-28T12:07:00,Saturday
+1235,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-23T12:16:00,Monday
+1235,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-26T19:21:00,Thursday
+1235,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-24T18:48:00,Tuesday
+1236,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-02T12:40:00,Monday
+1236,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-19T20:20:00,Thursday
+1237,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-08T21:08:00,Sunday
+1237,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-03T19:16:00,Tuesday
+1238,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-27T20:17:00,Friday
+1238,French Fries,1,3.99,1.0,Sides,Fried,2026-02-21T20:46:00,Saturday
+1238,French Fries,1,3.99,1.0,Sides,Fried,2026-02-23T20:23:00,Monday
+1238,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-24T20:07:00,Tuesday
+1238,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-15T20:43:00,Sunday
+1238,French Fries,1,3.99,1.0,Sides,Fried,2026-02-25T19:07:00,Wednesday
+1238,French Fries,1,3.99,1.0,Sides,Fried,2026-02-14T20:39:00,Saturday
+1239,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-18T12:09:00,Wednesday
+1239,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-14T13:26:00,Saturday
+1239,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-27T18:34:00,Friday
+1239,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-02-27T18:15:00,Friday
+1239,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-02T20:50:00,Monday
+1240,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-19T19:45:00,Thursday
+1241,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-06T20:03:00,Friday
+1241,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-09T21:36:00,Monday
+1241,Veggie Supreme Pizza,3,11.49,4.2,Pizza,Veg,2026-02-13T19:54:00,Friday
+1241,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-24T19:13:00,Tuesday
+1241,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-05T11:57:00,Thursday
+1241,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-17T19:08:00,Tuesday
+1241,Lemonade,2,3.49,0.7,Beverages,Juice,2026-02-21T20:03:00,Saturday
+1241,French Fries,1,3.99,1.0,Sides,Fried,2026-02-26T18:01:00,Thursday
+1242,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-26T18:13:00,Thursday
+1242,Margherita Pizza,3,8.99,3.0,Pizza,Veg,2026-02-16T11:22:00,Monday
+1242,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-04T19:59:00,Wednesday
+1242,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-04T20:18:00,Wednesday
+1242,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-27T20:41:00,Friday
+1242,Diet Coke,2,2.49,0.4,Beverages,Soft Drink,2026-02-14T18:57:00,Saturday
+1243,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-15T19:05:00,Sunday
+1243,Chicken Wings,2,7.99,3.2,Sides,Chicken,2026-02-07T18:41:00,Saturday
+1243,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-08T19:34:00,Sunday
+1244,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-26T12:14:00,Thursday
+1244,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-12T21:29:00,Thursday
+1244,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-16T18:34:00,Monday
+1245,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-02-10T13:29:00,Tuesday
+1246,French Fries,2,3.99,1.0,Sides,Fried,2026-02-09T19:59:00,Monday
+1246,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-04T20:51:00,Wednesday
+1246,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-27T19:59:00,Friday
+1246,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-10T19:13:00,Tuesday
+1247,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-04T18:28:00,Wednesday
+1247,Margherita Pizza,3,8.99,3.0,Pizza,Veg,2026-02-10T18:47:00,Tuesday
+1248,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-10T18:34:00,Tuesday
+1249,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-07T12:32:00,Saturday
+1249,Garlic Bread,3,4.49,1.2,Sides,Bread,2026-03-01T19:58:00,Sunday
+1249,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-21T12:38:00,Saturday
+1249,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-10T19:19:00,Tuesday
+1249,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-10T20:26:00,Tuesday
+1250,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-20T18:37:00,Friday
+1250,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-23T20:43:00,Monday
+1250,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-04T13:22:00,Wednesday
+1250,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T20:33:00,Saturday
+1251,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-16T19:09:00,Monday
+1252,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-27T20:34:00,Friday
+1252,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-12T20:54:00,Thursday
+1252,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-04T12:03:00,Wednesday
+1252,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-20T12:33:00,Friday
+1253,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-11T21:13:00,Wednesday
+1254,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-04T12:28:00,Wednesday
+1254,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-20T21:46:00,Friday
+1254,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-11T19:24:00,Wednesday
+1254,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-04T12:55:00,Wednesday
+1255,Chocolate Brownie,3,5.49,1.5,Dessert,Cake,2026-02-26T21:42:00,Thursday
+1255,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-09T21:55:00,Monday
+1255,French Fries,1,3.99,1.0,Sides,Fried,2026-03-04T20:00:00,Wednesday
+1256,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-26T19:07:00,Thursday
+1256,Lemonade,1,3.49,0.7,Beverages,Juice,2026-03-04T19:15:00,Wednesday
+1256,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-15T11:58:00,Sunday
+1257,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-27T20:18:00,Friday
+1258,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-23T19:22:00,Monday
+1259,Coke,3,2.49,0.4,Beverages,Soft Drink,2026-02-19T12:56:00,Thursday
+1259,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-28T18:46:00,Saturday
+1259,Coke,2,2.49,0.4,Beverages,Soft Drink,2026-03-04T13:13:00,Wednesday
+1260,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-04T20:36:00,Wednesday
+1260,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-03T19:16:00,Tuesday
+1260,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-21T19:46:00,Saturday
+1260,Veggie Supreme Pizza,2,11.49,4.2,Pizza,Veg,2026-02-09T19:21:00,Monday
+1261,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-03-01T21:15:00,Sunday
+1261,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-11T19:48:00,Wednesday
+1261,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-17T19:10:00,Tuesday
+1261,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-08T19:08:00,Sunday
+1261,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-08T19:58:00,Sunday
+1261,Margherita Pizza,3,8.99,3.0,Pizza,Veg,2026-02-19T11:02:00,Thursday
+1261,Pepperoni Pizza,3,10.99,4.0,Pizza,Non-Veg,2026-03-01T18:42:00,Sunday
+1262,Margherita Pizza,2,8.99,3.0,Pizza,Veg,2026-02-16T20:08:00,Monday
+1262,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-05T20:45:00,Thursday
+1263,Garlic Bread,2,4.49,1.2,Sides,Bread,2026-02-19T18:29:00,Thursday
+1264,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-23T19:42:00,Monday
+1264,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-24T20:31:00,Tuesday
+1265,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-20T18:26:00,Friday
+1266,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-26T12:17:00,Thursday
+1266,French Fries,1,3.99,1.0,Sides,Fried,2026-02-03T11:32:00,Tuesday
+1266,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-28T18:58:00,Saturday
+1267,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-19T19:09:00,Thursday
+1268,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-19T18:16:00,Thursday
+1268,French Fries,1,3.99,1.0,Sides,Fried,2026-02-28T18:25:00,Saturday
+1269,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-17T12:36:00,Tuesday
+1270,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-12T19:43:00,Thursday
+1270,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-23T19:54:00,Monday
+1270,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T20:25:00,Thursday
+1271,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-18T19:03:00,Wednesday
+1271,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-05T18:31:00,Thursday
+1271,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-21T18:54:00,Saturday
+1271,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-03-04T19:02:00,Wednesday
+1272,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-18T20:17:00,Wednesday
+1273,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-24T20:59:00,Tuesday
+1274,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-21T11:42:00,Saturday
+1275,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-03T11:13:00,Tuesday
+1275,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-03-04T20:04:00,Wednesday
+1276,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-10T21:36:00,Tuesday
+1276,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T21:57:00,Tuesday
+1276,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-27T12:47:00,Friday
+1277,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-19T18:47:00,Thursday
+1277,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-06T18:27:00,Friday
+1278,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-13T19:38:00,Friday
+1278,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-15T19:49:00,Sunday
+1279,French Fries,1,3.99,1.0,Sides,Fried,2026-02-28T18:28:00,Saturday
+1279,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-20T12:24:00,Friday
+1279,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-24T19:24:00,Tuesday
+1280,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-12T19:51:00,Thursday
+1281,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-05T12:17:00,Thursday
+1282,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-26T18:24:00,Thursday
+1283,Pepperoni Pizza,3,10.99,4.0,Pizza,Non-Veg,2026-02-05T19:00:00,Thursday
+1283,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-14T19:48:00,Saturday
+1284,Veggie Supreme Pizza,1,11.49,4.2,Pizza,Veg,2026-02-05T19:11:00,Thursday
+1284,Chicken Wings,3,7.99,3.2,Sides,Chicken,2026-02-20T19:32:00,Friday
+1284,Margherita Pizza,1,8.99,3.0,Pizza,Veg,2026-02-05T20:22:00,Thursday
+1284,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-22T18:50:00,Sunday
+1285,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-03T18:18:00,Tuesday
+1285,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-26T21:57:00,Thursday
+1285,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-21T18:33:00,Saturday
+1286,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-08T18:08:00,Sunday
+1287,French Fries,1,3.99,1.0,Sides,Fried,2026-02-18T18:09:00,Wednesday
+1288,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-11T12:26:00,Wednesday
+1289,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-14T19:16:00,Saturday
+1289,Lemonade,1,3.49,0.7,Beverages,Juice,2026-02-22T13:39:00,Sunday
+1290,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-02-07T20:19:00,Saturday
+1291,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-13T12:53:00,Friday
+1291,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-17T19:21:00,Tuesday
+1291,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-07T19:19:00,Saturday
+1292,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-18T18:20:00,Wednesday
+1293,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-13T19:18:00,Friday
+1293,Lemonade,3,3.49,0.7,Beverages,Juice,2026-02-21T12:50:00,Saturday
+1294,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-11T18:52:00,Wednesday
+1294,Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-06T20:59:00,Friday
+1294,Chocolate Brownie,1,5.49,1.5,Dessert,Cake,2026-02-20T21:11:00,Friday
+1294,Chicken Wings,1,7.99,3.2,Sides,Chicken,2026-02-03T12:46:00,Tuesday
+1294,Garlic Bread,1,4.49,1.2,Sides,Bread,2026-02-17T19:51:00,Tuesday
+1295,Pepperoni Pizza,1,10.99,4.0,Pizza,Non-Veg,2026-03-01T12:54:00,Sunday
+1295,Diet Coke,1,2.49,0.4,Beverages,Soft Drink,2026-02-24T20:31:00,Tuesday
